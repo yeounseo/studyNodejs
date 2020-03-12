@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Stop</title>
+    <style>
+        .container {
+            width: 700px;
+            height: 100vh;
+            margin: 0 auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 60px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+
+    </div>
+    <script>
+        let con = document.querySelector('.container');
+        let stop = prompt('입력하시오~');
+        con.innerHTML = `<h1>${stop}</h1>`;
+    </script>
+</body>
+
+</html>

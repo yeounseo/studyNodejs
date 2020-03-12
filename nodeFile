@@ -1,0 +1,13 @@
+Node js 파일 다루기
+
+CRUD
+
+C : Create (생성)
+R : Read (읽기)
+U : Update (수정)
+D : Delete (삭제)
+
+- 기본적으로 생성과 읽기를 어떻게 하는지 알아 보는 것이 중요하다.
+- 중심적인 주제
+
+- File을 어떻게 Node js 로 읽을 수 있는가? 
