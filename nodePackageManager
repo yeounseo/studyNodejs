@@ -1,0 +1,9 @@
+Package Manager 
+
+Package를 생성, 설치, 삭제, 업데이트를 해주는 것
+
+NPM = Node Package Manager
+
+Node js 를 설치할 때 함께 설치 된다.
+
+Npm을 통해서 pm2를 설치하자
