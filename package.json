@@ -1,0 +1,30 @@
+{
+  "name": "studynodejs",
+  "version": "1.0.0",
+  "description": "study node and javascript",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeounseo/studyNodejs.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs"
+  ],
+  "author": "yeoandante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeounseo/studyNodejs/issues"
+  },
+  "homepage": "https://github.com/yeounseo/studyNodejs#readme",
+  "dependencies": {
+    "sanitize-html": "^1.22.1"
+  }
+}
